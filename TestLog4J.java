@@ -11,7 +11,7 @@ public class TestLog4J {
 		// log.debug("message");
 		// log.info("message");
 	}
-
+//Line Added
 	public static void primeNumber() {
 		System.out.println("Printing of Prime Numbers between 1 to 1000...");
 		int i = 2, count = 0;
