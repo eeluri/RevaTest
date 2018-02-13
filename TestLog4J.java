@@ -22,6 +22,7 @@ public class TestLog4J {
 				if (i % j == 0) {
 					count = 0;
 					break;
+					break;
 				}
 				count = 1;
 			}
